@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdata.a CMakeFiles/data.dir/data_autogen/mocs_compilation.cpp.o CMakeFiles/data.dir/dbconnect.cpp.o
+/usr/bin/ranlib libdata.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libserver.a CMakeFiles/server.dir/server_autogen/mocs_compilation.cpp.o CMakeFiles/server.dir/appserver.cpp.o
+/usr/bin/ranlib libserver.a

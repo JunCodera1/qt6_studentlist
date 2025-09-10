@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbusinesslogic.a CMakeFiles/businesslogic.dir/businesslogic_autogen/mocs_compilation.cpp.o CMakeFiles/businesslogic.dir/businesslogic.cpp.o
+/usr/bin/ranlib libbusinesslogic.a

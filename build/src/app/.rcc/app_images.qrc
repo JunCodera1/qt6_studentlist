@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="images/copy.png">/home/jun/Documents/StudentList/src/app/images/copy.png</file>
+    <file alias="images/cut.png">/home/jun/Documents/StudentList/src/app/images/cut.png</file>
+    <file alias="images/new.png">/home/jun/Documents/StudentList/src/app/images/new.png</file>
+    <file alias="images/open.png">/home/jun/Documents/StudentList/src/app/images/open.png</file>
+    <file alias="images/paste.png">/home/jun/Documents/StudentList/src/app/images/paste.png</file>
+    <file alias="images/save.png">/home/jun/Documents/StudentList/src/app/images/save.png</file>
+  </qresource>
+</RCC>
+

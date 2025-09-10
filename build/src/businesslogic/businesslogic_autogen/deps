@@ -1,0 +1,5 @@
+businesslogic_autogen/timestamp: \
+	/home/jun/Documents/StudentList/src/businesslogic/CMakeLists.txt \
+	/home/jun/Documents/StudentList/src/businesslogic/businesslogic.cpp \
+	/home/jun/Documents/StudentList/src/businesslogic/businesslogic.h \
+	/usr/bin/cmake
